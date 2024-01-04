@@ -1,3 +1,3 @@
-#Home Page
+# Home Page
 
-###To enter the index.php page click here
+### To enter the index.php page click here
